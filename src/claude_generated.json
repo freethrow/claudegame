@@ -1,0 +1,534 @@
+{
+  "words": [
+    {
+      "word": "ephemeral",
+      "meanings": [
+        "lasting for a very short time",
+        "extremely powerful",
+        "made of paper",
+        "related to elephants"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "ubiquitous",
+      "meanings": [
+        "rare and uncommon",
+        "present everywhere simultaneously",
+        "underground",
+        "related to cities"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "pontificate",
+      "meanings": [
+        "to exercise swimming",
+        "to speak in a pompous or dogmatic way",
+        "to build bridges",
+        "to write poetry"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "circumspect",
+      "meanings": [
+        "wary and unwilling to take risks",
+        "related to circles",
+        "very enthusiastic",
+        "perfectly round"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "obstreperous",
+      "meanings": [
+        "helpful and kind",
+        "noisy and difficult to control",
+        "related to obstacles",
+        "extremely quiet"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "pellucid",
+      "meanings": [
+        "unclear and confusing",
+        "related to pelicans",
+        "transparently clear",
+        "extremely heavy"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "mendacious",
+      "meanings": [
+        "truthful and honest",
+        "not telling the truth; lying",
+        "related to repairing",
+        "extremely rich"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "perspicacious",
+      "meanings": [
+        "having a ready understanding of things",
+        "related to perspiration",
+        "physically strong",
+        "easily confused"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "recalcitrant",
+      "meanings": [
+        "easily managed",
+        "having an eagerly compliant nature",
+        "obstinately defiant of authority",
+        "related to mathematics"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "fastidious",
+      "meanings": [
+        "very attentive to detail",
+        "extremely fast",
+        "related to fasting",
+        "careless and messy"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "sycophantic",
+      "meanings": [
+        "related to illness",
+        "behaving in a servile way to gain advantage",
+        "extremely independent",
+        "related to psychology"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "mercurial",
+      "meanings": [
+        "subject to sudden changes of mood",
+        "related to Mercury",
+        "extremely stable",
+        "financially profitable"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "perfunctory",
+      "meanings": [
+        "carried out with minimal effort",
+        "perfectly executed",
+        "related to functions",
+        "extremely detailed"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "vituperate",
+      "meanings": [
+        "to praise highly",
+        "to blame or insult strongly",
+        "to move quickly",
+        "to heal or cure"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "pellucid",
+      "meanings": [
+        "related to pelicans",
+        "transparently clear",
+        "extremely heavy",
+        "dark and mysterious"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "equivocate",
+      "meanings": [
+        "to speak clearly",
+        "to use ambiguous language to deceive",
+        "to ride horses",
+        "to solve equations"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "obfuscate",
+      "meanings": [
+        "to make something unclear or difficult to understand",
+        "to clean thoroughly",
+        "to speak loudly",
+        "to build furniture"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "felicitous",
+      "meanings": [
+        "well-chosen or suited to the circumstances",
+        "related to cats",
+        "extremely unhappy",
+        "financially successful"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "prescient",
+      "meanings": [
+        "having medical knowledge",
+        "writing prescriptions",
+        "having knowledge of events before they take place",
+        "extremely precise"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "querulous",
+      "meanings": [
+        "complaining in a whining manner",
+        "extremely curious",
+        "related to queries",
+        "perfectly quiet"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "ineffable",
+      "meanings": [
+        "too great to be expressed in words",
+        "not efficient",
+        "easily explained",
+        "related to eating"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "truculent",
+      "meanings": [
+        "eager to argue or fight",
+        "related to trucks",
+        "peaceful and calm",
+        "extremely tired"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "laconic",
+      "meanings": [
+        "using very few words",
+        "related to lakes",
+        "extremely talkative",
+        "beautifully decorated"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "solipsistic",
+      "meanings": [
+        "extremely social",
+        "characterized by self-centeredness",
+        "related to the sun",
+        "perfectly solitary"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "vociferous",
+      "meanings": [
+        "expressing feelings with enthusiasm",
+        "related to vocabulary",
+        "extremely quiet",
+        "making a loud outcry"
+      ],
+      "correct": 3
+    },
+    {
+      "word": "pernicious",
+      "meanings": [
+        "having a harmful effect",
+        "related to perception",
+        "extremely perfumed",
+        "beneficial and helpful"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "inveterate",
+      "meanings": [
+        "related to veterinary medicine",
+        "having a particular habit, activity, or interest that is long-established",
+        "extremely new",
+        "inside a building"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "perspicuous",
+      "meanings": [
+        "clearly expressed and easily understood",
+        "related to perspiration",
+        "extremely confusing",
+        "physically demanding"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "grandiloquent",
+      "meanings": [
+        "related to grandparents",
+        "using simple language",
+        "using pompous or extravagant language",
+        "extremely quiet"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "garrulous",
+      "meanings": [
+        "excessively talkative",
+        "related to garlic",
+        "extremely quiet",
+        "physically strong"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "nugatory",
+      "meanings": [
+        "of no value or importance",
+        "related to numbers",
+        "extremely valuable",
+        "made of gold"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "mendacious",
+      "meanings": [
+        "extremely honest",
+        "not telling the truth",
+        "related to mending",
+        "physically strong"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "fecund",
+      "meanings": [
+        "intellectually unproductive",
+        "related to economics",
+        "producing or capable of producing an abundance",
+        "extremely tired"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "propitious",
+      "meanings": [
+        "giving or indicating a good chance of success",
+        "related to property",
+        "extremely unfortunate",
+        "physically demanding"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "phlegmatic",
+      "meanings": [
+        "having an energetic nature",
+        "related to phlegm",
+        "having a calm disposition",
+        "extremely emotional"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "quixotic",
+      "meanings": [
+        "exceedingly idealistic and unrealistic",
+        "related to quicksilver",
+        "extremely practical",
+        "physically quick"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "recondite",
+      "meanings": [
+        "little known; abstruse",
+        "recently discovered",
+        "extremely common",
+        "related to recording"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "peccadillo",
+      "meanings": [
+        "a very serious crime",
+        "a slight offense",
+        "related to pecans",
+        "a type of musical instrument"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "insidious",
+      "meanings": [
+        "proceeding in a gradual, subtle way, but with harmful effects",
+        "extremely obvious",
+        "related to inside",
+        "helpful and kind"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "mordant",
+      "meanings": [
+        "having or showing keen mental discernment",
+        "related to mortality",
+        "characterized by bitter, caustic humor",
+        "extremely sweet"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "fatuous",
+      "meanings": [
+        "related to fate",
+        "extremely clever",
+        "silly and pointless",
+        "physically tired"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "vapid",
+      "meanings": [
+        "offering no stimulation or challenge",
+        "related to vapor",
+        "extremely exciting",
+        "physically demanding"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "sagacious",
+      "meanings": [
+        "related to cooking",
+        "having or showing good judgment",
+        "extremely foolish",
+        "physically strong"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "contentious",
+      "meanings": [
+        "causing or likely to cause disagreement",
+        "extremely happy",
+        "related to content",
+        "physically demanding"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "assiduous",
+      "meanings": [
+        "showing great care and perseverance",
+        "related to assistance",
+        "extremely careless",
+        "physically demanding"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "prosaic",
+      "meanings": [
+        "having or using the style or diction of prose",
+        "extremely poetic",
+        "related to professionals",
+        "physically demanding"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "taciturn",
+      "meanings": [
+        "extremely talkative",
+        "reserved or uncommunicative in speech",
+        "related to tactics",
+        "physically quick"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "soporific",
+      "meanings": [
+        "causing or tending to cause sleep",
+        "extremely energetic",
+        "related to soap",
+        "physically demanding"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "mellifluous",
+      "meanings": [
+        "sweet or musical; pleasant to hear",
+        "related to melons",
+        "extremely harsh",
+        "physically demanding"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "pernicious",
+      "meanings": [
+        "having a beneficial effect",
+        "related to perception",
+        "having a harmful effect",
+        "physically demanding"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "pecuniary",
+      "meanings": [
+        "relating to or consisting of money",
+        "extremely poor",
+        "related to peculiarity",
+        "physically demanding"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "tantamount",
+      "meanings": [
+        "equivalent in value, significance, or effect",
+        "extremely different",
+        "related to tantrums",
+        "physically large"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "vestigial",
+      "meanings": [
+        "forming a very small remnant of something that was once greater",
+        "related to vessels",
+        "extremely important",
+        "physically visible"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "words": [
+    {
+      "word": "cumbersome",
+      "meanings": [
+        "quick and efficient in movement",
+        "large or heavy and therefore difficult to carry or use; unwieldy",
+        "ugly and unpleasant to look at",
+        "made entirely of natural materials"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "corny",
+      "meanings": [
+        "highly sophisticated",
+        "trite, banal, or mawkishly sentimental",
+        "related to agriculture",
+        "expensive and luxurious"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "atrocious",
+      "meanings": [
+        "slightly annoying",
+        "beneficial to health",
+        "horrifyingly wicked or cruel; terrible",
+        "related to astronomy"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "contrived",
+      "meanings": [
+        "naturally occurring",
+        "made of concrete",
+        "well-organized",
+        "deliberately created rather than arising naturally or spontaneously"
+      ],
+      "correct": 3
+    },
+    {
+      "word": "communality",
+      "meanings": [
+        "individual achievement",
+        "the state of being shared by all members of a community",
+        "a type of political system",
+        "religious ceremony"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "scrupulous",
+      "meanings": [
+        "diligent, thorough, and extremely attentive to details",
+        "related to medical procedures",
+        "financially poor",
+        "careless and messy"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "coherent",
+      "meanings": [
+        "extremely loud",
+        "made of plastic",
+        "logical and consistent, easy to understand",
+        "naturally occurring"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "impetuous",
+      "meanings": [
+        "very careful and planned",
+        "acting or done quickly and without thought or care",
+        "related to weather",
+        "financially stable"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "assertive",
+      "meanings": [
+        "physically weak",
+        "shy and withdrawn",
+        "having or showing a confident and forceful personality",
+        "related to art"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "pugnacious",
+      "meanings": [
+        "peaceful and calm",
+        "eager or quick to argue, quarrel, or fight",
+        "related to dogs",
+        "academically brilliant"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "surreptitious",
+      "meanings": [
+        "officially approved",
+        "very loud and noticeable",
+        "kept secret, especially because it would not be approved of",
+        "related to surgery"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "lucrative",
+      "meanings": [
+        "causing loss of money",
+        "producing a great deal of profit",
+        "related to light",
+        "difficult to achieve"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "arduous",
+      "meanings": [
+        "financially rewarding",
+        "easy and simple",
+        "involving or requiring strenuous effort; difficult and tiring",
+        "related to art"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "tenacious",
+      "meanings": [
+        "socially awkward",
+        "giving up easily",
+        "related to tennis",
+        "persisting in existence or in a course of action"
+      ],
+      "correct": 3
+    },
+    {
+      "word": "foible",
+      "meanings": [
+        "perfect quality",
+        "a minor weakness or eccentricity in someone's character",
+        "a type of sword",
+        "physical strength"
+      ],
+      "correct": 1
+    }
+  ]
+}

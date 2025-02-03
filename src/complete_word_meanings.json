@@ -1,0 +1,424 @@
+{
+  "words": [
+    {
+      "word": "contraction",
+      "meanings": [
+        "a device for measuring time",
+        "the process of becoming smaller or shorter",
+        "a type of musical instrument",
+        "expansion of material"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "appraisal",
+      "meanings": [
+        "a type of cooking technique",
+        "an act of praising someone publicly",
+        "a formal assessment of the value or quality of something",
+        "a mathematical formula"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "dispute",
+      "meanings": [
+        "a form of ancient writing",
+        "a disagreement or argument",
+        "a type of musical performance",
+        "a celebration ceremony"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "aspersion",
+      "meanings": [
+        "a type of flower arrangement",
+        "a false or damaging statement about someone",
+        "a medical procedure",
+        "a cooking technique"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "susceptible",
+      "meanings": [
+        "likely to be influenced or harmed by something",
+        "resistant to change",
+        "capable of flying",
+        "related to cooking"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "conducive",
+      "meanings": [
+        "related to conducting electricity",
+        "making a particular situation or outcome likely or possible",
+        "resistant to water",
+        "capable of floating"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "fraught with",
+      "meanings": [
+        "filled with something undesirable",
+        "decorated beautifully",
+        "related to seafaring",
+        "empty of content"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "steer clear",
+      "meanings": [
+        "to drive a vehicle straight",
+        "to avoid someone or something",
+        "to clean thoroughly",
+        "to paint clearly"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "obsolete",
+      "meanings": [
+        "brand new",
+        "no longer in use or no longer useful",
+        "partially complete",
+        "extremely expensive"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "esoterically",
+      "meanings": [
+        "in a straightforward manner",
+        "likely to be understood by only a small number of people",
+        "related to physical exercise",
+        "with great speed"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "laden with",
+      "meanings": [
+        "empty of content",
+        "heavily loaded or weighed down by",
+        "lightly sprinkled",
+        "decorated with"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "passing nod",
+      "meanings": [
+        "a brief gesture of acknowledgment",
+        "a type of dance move",
+        "a medical condition",
+        "a complete rejection"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "intricate",
+      "meanings": [
+        "very basic and simple",
+        "having many interrelated parts or facets; complicated",
+        "related to internal medicine",
+        "extremely large"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "barrister",
+      "meanings": [
+        "a coffee maker",
+        "a type of ancient weapon",
+        "a lawyer qualified to plead in court",
+        "a professional chef"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "legalese",
+      "meanings": [
+        "a type of disease",
+        "formal and technical legal language",
+        "a legal document",
+        "a court building"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "purported",
+      "meanings": [
+        "appearing to be true, though not necessarily so",
+        "completely proven",
+        "related to purple color",
+        "officially documented"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "assail",
+      "meanings": [
+        "to praise highly",
+        "to make sail",
+        "to attack vigorously",
+        "to cook slowly"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "preside",
+      "meanings": [
+        "to be in charge of a meeting or ceremony",
+        "to cook food",
+        "to clean thoroughly",
+        "to run away"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "listen in",
+      "meanings": [
+        "to speak loudly",
+        "to eavesdrop on a conversation",
+        "to participate actively",
+        "to write down"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "hamper",
+      "meanings": [
+        "to help or assist",
+        "to hinder or impede",
+        "to celebrate",
+        "to clean thoroughly"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "a par with",
+      "meanings": [
+        "below the standard of",
+        "equal to in value or standing",
+        "superior to",
+        "unrelated to"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "in breach of",
+      "meanings": [
+        "in agreement with",
+        "in celebration of",
+        "in violation of",
+        "in support of"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "revenge",
+      "meanings": [
+        "to forgive completely",
+        "the action of hurting someone in return for harm done",
+        "to repair something",
+        "to give a gift"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "in accordance of",
+      "meanings": [
+        "in disagreement with",
+        "in harmony with",
+        "in spite of",
+        "in fear of"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "subservient",
+      "meanings": [
+        "prepared to obey others unquestioningly",
+        "in charge of others",
+        "independent and free",
+        "related to submarine service"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "impinge",
+      "meanings": [
+        "to celebrate success",
+        "to have an effect, especially negative",
+        "to paint something",
+        "to cook food"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "comely",
+      "meanings": [
+        "ugly or unattractive",
+        "related to comedy",
+        "pleasant to look at",
+        "extremely tall"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "pulchritudinous",
+      "meanings": [
+        "related to pulmonary medicine",
+        "physically beautiful",
+        "extremely dangerous",
+        "highly contagious"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "strident",
+      "meanings": [
+        "quiet and gentle",
+        "loud, harsh, and grating",
+        "colorful and bright",
+        "slow moving"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "conjure up",
+      "meanings": [
+        "to make disappear",
+        "to bring to mind",
+        "to cook quickly",
+        "to clean thoroughly"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "depict",
+      "meanings": [
+        "to show or represent in words or pictures",
+        "to hide or conceal",
+        "to remove completely",
+        "to cook slowly"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "highbrow",
+      "meanings": [
+        "related to eyebrows",
+        "intellectually sophisticated",
+        "extremely tall",
+        "physically strong"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "lowbrow",
+      "meanings": [
+        "not highly intellectual or cultured",
+        "physically short",
+        "underground",
+        "extremely intelligent"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "evoke",
+      "meanings": [
+        "to forget completely",
+        "to bring to mind",
+        "to cook food",
+        "to clean thoroughly"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "insatiable",
+      "meanings": [
+        "easily satisfied",
+        "impossible to satisfy",
+        "related to installation",
+        "very patient"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "reverent",
+      "meanings": [
+        "showing deep respect",
+        "showing disrespect",
+        "related to revenge",
+        "extremely loud"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "auspicious",
+      "meanings": [
+        "unfortunate",
+        "related to birds",
+        "conducive to success; favorable",
+        "extremely loud"
+      ],
+      "correct": 2
+    },
+    {
+      "word": "stroppiness",
+      "meanings": [
+        "bad-tempered and argumentative behavior",
+        "happiness and joy",
+        "related to ropes",
+        "physical strength"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "warts-and-all",
+      "meanings": [
+        "partially complete",
+        "including all defects or blemishes",
+        "related to medicine",
+        "perfectly clean"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "upfront",
+      "meanings": [
+        "at the back",
+        "honest and direct",
+        "related to posture",
+        "extremely tall"
+      ],
+      "correct": 1
+    },
+    {
+      "word": "vehemently",
+      "meanings": [
+        "with great force or emotion",
+        "very slowly",
+        "quietly and calmly",
+        "with great patience"
+      ],
+      "correct": 0
+    },
+    {
+      "word": "intent",
+      "meanings": [
+        "distracted and unfocused",
+        "determined to do something",
+        "related to tents",
+        "extremely loud"
+      ],
+      "correct": 1
+    }
+  ]
+}
