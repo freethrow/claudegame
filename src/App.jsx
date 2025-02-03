@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import wordMeanings from './complete_word_meanings.json';
-import './App.css';
 
 function App() {
   const [shuffledWords, setShuffledWords] = useState([]);
@@ -24,7 +23,7 @@ function App() {
   const currentQuestion = shuffledWords[currentIndex];
 
   if (!currentQuestion) {
-    return <div>Loading...</div>;
+    return <div className="flex items-center justify-center h-screen text-2xl">Loading...</div>;
   }
 
   const handleAnswerClick = (index) => {
@@ -47,19 +46,28 @@ function App() {
   const percentage = attempted > 0 ? Math.round((score / attempted) * 100) : 0;
 
   return (
-    <div className="App">
-      <div className="score">
-        <span>Question {currentIndex + 1}/{shuffledWords.length}</span>
-        <span>Score: {score}/{attempted} ({percentage}%)</span>
+    <div className="flex flex-col items-center justify-start h-screen p-3 bg-orange-200">
+      <div className="w-full flex justify-between items-center px-3 mb-3">
+        <div className="text-lg p-3 font-bold text-gray-500 border border-gray-500">freethrow</div>
+        <div className="text-xl font-bold text-gray-900">
+          <div className="text-gray-500">Question {currentIndex + 1}/{shuffledWords.length}</div>
+          <div className="text-gray-700">Score: {score}/{attempted} ({percentage}%)</div>
+        </div>
       </div>
-      <h1 className="word">{currentQuestion.word}</h1>
-      <div className="options">
+      <h1 className="text-8xl font-bold my-8 font-sans">
+        {currentQuestion.word}
+      </h1>
+      <div className="grid grid-cols-2 gap-5 w-full max-w-4xl h-96">
         {currentQuestion.meanings.map((meaning, index) => (
           <button
             key={index}
             onClick={() => handleAnswerClick(index)}
-            className={`option ${showResult && index === currentQuestion.correct ? 'correct' : ''} ${
-              showResult && index === selectedAnswer && index !== currentQuestion.correct ? 'incorrect' : ''
+            className={`flex items-center justify-center p-5 border rounded-lg text-2xl transition-all max-h-32 ${
+              showResult && index === currentQuestion.correct
+                ? 'bg-green-100 border-green-200'
+                : showResult && index === selectedAnswer && index !== currentQuestion.correct
+                ? 'bg-red-100 border-red-200'
+                : 'bg-white border-gray-200 hover:bg-gray-50'
             }`}
             disabled={showResult}
           >
@@ -68,13 +76,18 @@ function App() {
         ))}
       </div>
       {showResult && (
-        <div className="result">
-          <p>
+        <div className="mt-8 text-center">
+          <p className="text-xl mb-4">
             {selectedAnswer === currentQuestion.correct
               ? 'Correct!'
               : 'Incorrect! The correct answer is: ' + currentQuestion.meanings[currentQuestion.correct]}
           </p>
-          <button className="next-button" onClick={handleNext}>Next</button>
+          <button
+            className="px-8 py-3 text-lg font-light text-gray-700 bg-white border border-gray-200 rounded-lg hover:bg-gray-50 transition-all"
+            onClick={handleNext}
+          >
+            Next
+          </button>
         </div>
       )}
     </div>
